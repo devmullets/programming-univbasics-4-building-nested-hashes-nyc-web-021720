@@ -31,7 +31,7 @@ def monopoly_with_third_tier
       },
       :names => {
         :reading_railroad => {},
-        :names2 => 2,
+        :pennsylvania_railroad => {},
         :names3 => 3,
         :names4 => 4
       }
