@@ -24,12 +24,17 @@ def monopoly_with_third_tier
     :railroads => {
       :pieces => 4,
       :rent_in_dollars => {
-        :key1 => 12,
-        :key2 => 13,
-        :key3 => 14,
-        :key4 => 15
+        :rent1 => 12,
+        :rent2 => 13,
+        :rent3 => 14,
+        :rent4 => 15
       },
-      :names => "railroads"
+      :names => {
+        :names1 => 1,
+        :names2 => 2,
+        :names3 => 3,
+        :names4 => 4
+      }
     }
   }
   
